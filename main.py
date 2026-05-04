@@ -3,7 +3,7 @@ import random
 import string
 import sqlite3
 
-TOKEN = "BOT_TOKEN"
+TOKEN = "8336168818:AAFFDZG9o-IGdvubWBVikSZbxcvFDZoIGN4"
 CHANNEL = "@CSNZEUS"
 
 bot = telebot.TeleBot(TOKEN)
